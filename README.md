@@ -1,4 +1,4 @@
-<img alt="banner" src=./assets/maxb.png>
+<img alt="banner" src=./assets/Maxb.png>
 
 ###
 
