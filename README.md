@@ -15,11 +15,6 @@
 
 <br clear="both">
 
-<h1 align="center">HELLO</h1>
-
-###
-
-<br clear="both">
 
 <h3 align="center">About Me</h3>
 
