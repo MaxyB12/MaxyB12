@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<p align="center">Graduated from University of South Florida<br>I'm currently learning C++ and Rust<br>In my free time I like to work on projects and golf</p>
+<p align="center">Can do attitude<br>I'm currently learning C++ and Rust<br>In my free time I like to work on projects and golf<br>Usually always home so feel free to reachout anytime</p>
 
 ###
 
